@@ -16,7 +16,7 @@ export default function Home() {
         <p>
           I am a highly skilled developer with extensive experience in Next.js
           and Firebase. I can help you troubleshoot the 500 error you are
-          encountering with your dynamic route when deployed.
+          encountering with your dynamic route when deployed
         </p>
       </main>
     </>
